@@ -50,7 +50,7 @@
       ],
       "meteor/accounts-facebook": [
         "/home/karolinysantos/.meteor/packages/accounts-facebook/1.3.4/web.browser/notice.js",
-        "/home/karoliny/.meteor/packages/accounts-facebook/1.3.4/web.browser/facebook.js"
+        "/home/karolinysantos/.meteor/packages/accounts-facebook/1.3.4/web.browser/facebook.js"
       ],
       "meteor/accounts-google": [
         "/home/karolinysantos/.meteor/packages/accounts-google/1.4.1/web.browser/notice.js",
