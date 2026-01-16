@@ -1,4 +1,4 @@
-# Gerenciamento de anexos
+ # Gerenciamento de anexos
 
 A coleção [`attachmentsCollection`](../imports/api/attachmentsCollection.ts) utiliza o pacote `ostrio:files` para armazenar uploads no servidor. Ela fornece métodos e publicações para lidar com arquivos enviados pelos usuários.
 
