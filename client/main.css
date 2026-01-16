@@ -3,7 +3,7 @@
   --loader-border: #6768f21a;
   --loading-gap: 8px;
 }
-
+ 
 *, *::before, *::after {
   box-sizing: border-box;
   padding: 0;
