@@ -1,5 +1,5 @@
 # Guia de Customização da Interface (UI) - MeteorReactBaseMUI
-
+ 
 Esta seção detalha como personalizar todos os aspectos visuais do boilerplate **MeteorReactBaseMUI**, desde temas do Material-UI até a estrutura de layouts, AppBar e menus. As instruções referenciam principalmente os arquivos contidos em `imports/ui/`. Este guia é essencial para desenvolvedores e Agentes de IA que precisam realizar modificações visuais.
 
 ## Sumário
