@@ -1,5 +1,5 @@
 # Templates de Interface e Customização pelo Agente de IA
- 
+
 Este documento descreve como temas e layouts de UI podem ser gerenciados e customizados no boilerplate, especialmente com o auxílio do Agente de IA integrado. Os templates de UI referem-se a um conjunto de arquivos que definem a aparência (cores, fontes, etc.) e a estrutura (layouts, AppBar) da interface.
 
 ## Estrutura de um Template de UI (Exemplo)

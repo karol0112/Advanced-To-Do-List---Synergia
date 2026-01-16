@@ -1,4 +1,4 @@
- # Visão Geral da Arquitetura - MeteorReactBaseMUI
+# Visão Geral da Arquitetura - MeteorReactBaseMUI
 
 Este documento descreve a arquitetura central do boilerplate, focando nas classes base para acesso a dados e lógica de servidor, e como os diferentes subsistemas (módulos, SSR, segurança, etc.) se integram. É crucial para um Agente de IA entender estes conceitos para realizar modificações e extensões de forma eficaz.
 

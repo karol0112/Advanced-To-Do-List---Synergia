@@ -1,5 +1,5 @@
 # Personalizando Módulos Gerados pelo Agente de IA
- 
+
 Este guia explica como adaptar um módulo que foi gerado pelo Agente de IA integrado para adicionar novas funcionalidades ou modificar as existentes. O Agente de IA cria a estrutura inicial do módulo, incluindo schema, APIs, páginas e configurações, conforme detalhado em [`docs/module-generator.md`](./module-generator.md).
 
 ## 1. Estrutura Gerada pelo Agente de IA
