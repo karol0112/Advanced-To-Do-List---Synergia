@@ -7,7 +7,7 @@ import CardContent from '@mui/material/CardContent';
 import Grid from '@mui/material/Grid';
 import Box from '@mui/material/Box';
 
-
+ 
 /** Essa página é apenas demonstrativa, sua função é ser usada para exemplificar os componentes do StotyBook */
 
 function StoryGenericPage({
