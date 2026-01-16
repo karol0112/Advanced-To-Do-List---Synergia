@@ -1,4 +1,4 @@
- # Padrões de Codificação e Boas Práticas
+# Padrões de Codificação e Boas Práticas
 
 Este documento resume os padrões recorrentes no *MeteorReactBaseMUI*.
 
