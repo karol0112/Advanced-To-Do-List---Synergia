@@ -8,3 +8,4 @@ Meteor.startup(() => {
       console.log("ServiceWorker registration failed: ", error);
     });
 });
+ 
