@@ -1,6 +1,6 @@
 import { Meteor } from 'meteor/meteor';
 import assert from 'assert';
-
+ 
 describe('typescriptApp', function () {
   it('package.json has correct name', async function () {
     const { name } = await import('../package.json');
